@@ -1,0 +1,1 @@
+<?php require 'page_parts/banner.php'; ?>
