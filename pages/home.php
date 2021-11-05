@@ -132,32 +132,3 @@
         <!-- container -->
     </section>
     <!-- sobre-equipe -->
-
-    <section class="cards">
-        <div class="container">
-            <div class="line-text">
-                <div style="width:35px;"></div>
-                <h2>Portfólio de Projetos Recentes</h2>
-            </div>
-            <!-- line-text -->
-            <div class="cards-container">
-                <div class="card-box-single wow bounceInUp">
-                    <div class="card-box-img">
-                        <img src="<?php echo INCLUDE_PATH; ?>assets/images/portfolio/mockup-empresarial.png" />
-                    </div>
-                    <!-- card-box-img -->
-                    <div class="card-box-text">
-                        <h4>Site Modelo Empresarial</h4>
-                    </div>
-                    <!-- card-box-text- -->
-                    <a class="link-post" href="https://modeloempresarial.000webhostapp.com/" target="_blank"><i class="fas fa-eye"></i> Ver Projeto</a>
-                    <div class="clear"></div>
-                    <div class="borda-baixo"></div>
-                </div>
-                <!-- card-box-single -->
-            </div>
-            <!-- cards-container -->
-        </div>
-        <!-- container -->
-    </section>
-    <!-- cards -->
