@@ -45,23 +45,22 @@
             <!-- logo -->
             <nav class="menu-desktop">
             <ul>
-                <li <?php echo ($url === 'empresa') ? 'class="selected"' : ''; ?>><a href="<?php echo INCLUDE_PATH; ?>empresa">A Empresa</a></li>
-                <li <?php echo ($url === 'produtos') ? 'class="selected"' : ''; ?>><a href="<?php echo INCLUDE_PATH; ?>produtos">Produtos</a></li>
-                <li <?php echo ($url === 'clientes') ? 'class="selected"' : ''; ?>><a href="<?php echo INCLUDE_PATH; ?>clientes">Clientes</a></li>
                 <li <?php echo ($url === 'sobre') ? 'class="selected"' : ''; ?>><a href="<?php echo INCLUDE_PATH; ?>sobre">Sobre</a></li>
-                <li <?php echo ($url === 'proposta') ? 'class="selected"' : ''; ?>><a class="btn-proposta" href="<?php echo INCLUDE_PATH; ?>proposta">SOLICITAR PROPOSTA</a></li>
+                <li <?php echo ($url === 'portfolio') ? 'class="selected"' : ''; ?>><a href="<?php echo INCLUDE_PATH; ?>portfolio">Portfólio</a></li>
+                <li <?php echo ($url === 'clientes') ? 'class="selected"' : ''; ?>><a href="<?php echo INCLUDE_PATH; ?>clientes">Clientes</a></li>
+                <li <?php echo ($url === 'contato') ? 'class="selected"' : ''; ?>><a href="<?php echo INCLUDE_PATH; ?>contato">Contato</a></li>
+                <li <?php echo ($url === 'orcamento') ? 'class="selected"' : ''; ?>><a class="btn-proposta" href="<?php echo INCLUDE_PATH; ?>orcamento"><i class="fab fa-whatsapp"></i> ORÇAMENTO</a></li>
             </ul>
         </nav>
         <!-- menu-deskop -->
         <nav class="menu-mobile">
             <h2><i class="fa fa-bars"></i></h2>
             <ul>
-                <li <?php echo ($url === 'empresa') ? 'class="selected"' : ''; ?>><a href="<?php echo INCLUDE_PATH; ?>empresa">A Empresa</a></li>
-                <li <?php echo ($url === 'produtos') ? 'class="selected"' : ''; ?>><a href="<?php echo INCLUDE_PATH; ?>produtos">Produtos</a></li>
+               <li <?php echo ($url === 'sobre') ? 'class="selected"' : ''; ?>><a href="<?php echo INCLUDE_PATH; ?>sobre">Sobre</a></li>
+                <li <?php echo ($url === 'portfolio') ? 'class="selected"' : ''; ?>><a href="<?php echo INCLUDE_PATH; ?>portfolio">Portfólio</a></li>
                 <li <?php echo ($url === 'clientes') ? 'class="selected"' : ''; ?>><a href="<?php echo INCLUDE_PATH; ?>clientes">Clientes</a></li>
-                <li <?php echo ($url === 'sobre') ? 'class="selected"' : ''; ?>><a href="<?php echo INCLUDE_PATH; ?>sobre">Sobre</a></li>
                 <li <?php echo ($url === 'contato') ? 'class="selected"' : ''; ?>><a href="<?php echo INCLUDE_PATH; ?>contato">Contato</a></li>
-                <li class=" proposta <?php echo ($url === 'empresa') ? 'selected' : ''; ?>"><a href="<?php echo INCLUDE_PATH; ?>proposta">SOLICITAR PROPOSTA</a></li>
+                <li class="btn-proposta" <?php echo ($url === 'orcamento') ? 'class="selected"' : ''; ?>><a class="btn-proposta" href="<?php echo INCLUDE_PATH; ?>orcamento"><i class="fab fa-whatsapp"></i> ORÇAMENTO</a></li>
             </ul>
         </nav>
         <!-- menu-mobile -->

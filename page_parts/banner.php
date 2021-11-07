@@ -42,7 +42,7 @@
                
                <?php if ($url === 'home' || $url === 'sites'): ?>
                	<i class="fab fa-whatsapp"></i> 
-               		Conversar no WhatsApp
+               		ORÇAMENTO
                	<?php endif; ?>
                	<?php if ($url === 'sistemas'): ?>
                		Ver Nossos Produtos

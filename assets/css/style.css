@@ -90,7 +90,7 @@ header {
 }
 
 .btn-proposta {
-    background-color: #EF7B03;
+    background-color: #11aa4e;
     color: white!important;
     font-weight: 700;
 }
@@ -117,17 +117,17 @@ header {
     text-align: center;
 }
 .menu-mobile li {
-    padding: 8px 0;
+    padding: 0;
     border-bottom: 1px solid black;
 }
 
-.menu-mobile li.proposta {
-    background-color: #EF7B03;
+.menu-mobile li.btn-proposta {
+    background-color: #11aa4e!important;
     color: white!important;
     font-weight: 700;
 }
 
-.menu-mobile li.proposta a {
+.menu-mobile li.btn-proposta a {
     color: white;
 }
 
@@ -142,6 +142,7 @@ header {
     display: block;
     color: #000;
     text-decoration: none;
+    padding: 10px 0;
 }
 .menu-mobile svg:not(:root).svg-inline--fa {
     margin-top: 14px;
