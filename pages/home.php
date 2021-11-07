@@ -55,9 +55,9 @@
                 <!-- box-icone-single -->
 				
 				<div class="box-icone-single wow bounceInDown">
-                    <h2 class="wow rubberBand"><i class="fab fa-google"></i></h2>
-                    <h3>Google Ads</h3> 
-                    <p>Criamos campanhas altamente otimizadas para o seu negócio gerar mais vendas pelo menor custo.</p>
+                    <h2 class="wow rubberBand"><i class="fas fa-mobile-alt"></i></h2>
+                    <h3>Aplicativos</h3> 
+                    <p>Desenvolvemos aplicativos customizados para automatizar e facilitar a gestão do seu negócio, gerando mais lucro e autonomia.</p>
 					<a href="#" class="btn-saiba"><i class="fab fa-whatsapp"></i> ORÇAMENTO</a>
 					<!-- btn-saiba -->
                 </div>
