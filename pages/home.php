@@ -13,7 +13,7 @@
                     <h2 class="wow rubberBand"><i class="fas fa-laptop-code"></i></h2>
                     <h3>Websites</h3> 
                     <p>Websites, landing pages, portais, páginas de captura e etc.</p>
-					<a href="#" class="btn-saiba">Saiba Mais</a>
+					<a href="<?php echo INCLUDE_PATH; ?>sites" class="btn-saiba">Saiba Mais</a>
 					<!-- btn-saiba -->
                 </div>
                 <!-- box-icone-single -->

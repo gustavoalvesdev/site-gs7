@@ -1,0 +1,48 @@
+.mosaico {
+	padding: 50px 0;
+}
+
+.flex-mosaico {
+	display: flex;
+}
+
+.flex-mosaico {
+	display: flex;
+}
+
+.item-1-mosaico {
+	background-position: center;
+	background-size: cover;
+	width: 60%;
+}
+
+.item-2-mosaico {
+	background-color: #392D75;
+	padding: 90px 40px;
+	width: 40%;
+}
+
+.item-2-mosaico h2 {
+	color: white;
+	margin-bottom: 10px;
+}
+
+.item-2-mosaico p {
+	color: white;
+}
+
+@media screen and (max-width: 768px) {
+	.flex-mosaico {
+		display: block;
+	}
+
+	.item-1-mosaico {
+		padding-top: 80%;
+		width: 100%;
+	}
+
+	.item-2-mosaico {
+		text-align: justify;
+		width: 100%;
+	}
+}
