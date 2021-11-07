@@ -1,7 +1,9 @@
 <?php require 'config.php'; ?>
 <!DOCTYPE html>
 <html lang="pt-br">
-
+<?php 
+	$url = isset($_GET['url']) ? addslashes($_GET['url']) : 'home';
+?>
 <head>
     <meta charset="UTF-8" />
     <title>GS7 DIGITAL - Desenvolvimento de Sistemas</title>
@@ -28,13 +30,12 @@
     <link rel="stylesheet" href="<?php echo INCLUDE_PATH; ?>assets/fonts/css/all.css" />
     <link rel="stylesheet" href="<?php echo INCLUDE_PATH; ?>assets/css/animate.css" />
     <link rel="stylesheet" href="<?php echo INCLUDE_PATH; ?>assets/css/style.css" />
+    <?php if ($url == 'sistemas'): ?>
+    	<link rel="stylesheet" href="<?php echo INCLUDE_PATH; ?>assets/css/sistemas.css">
+    <?php endif; ?>
 </head>
 
 <body>	
-
-	<?php 
-		$url = isset($_GET['url']) ? addslashes($_GET['url']) : 'home';
-	?>
 
     <header>
         <div class="container">
