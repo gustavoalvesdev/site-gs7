@@ -13,7 +13,7 @@
                     <h2 class="wow rubberBand"><i class="fas fa-laptop-code"></i></h2>
                     <h3>Websites</h3> 
                     <p>Websites, landing pages, portais, páginas de captura e etc.</p>
-					<a href="<?php echo INCLUDE_PATH; ?>sites" class="btn-saiba">Saiba Mais</a>
+					<a href="<?php echo INCLUDE_PATH; ?>sites" class="btn-saiba"><i class="fab fa-whatsapp"></i> ORÇAMENTO</a>
 					<!-- btn-saiba -->
                 </div>
                 <!-- box-icone-single -->
@@ -22,17 +22,26 @@
                     <h2 class="wow rubberBand"><i class="fas fa-address-card"></i></h2>
                     <h3>Sistemas</h3> 
                     <p>Sistemas comerciais para cadastro de clientes, controle de estoque, gestão de funcionários, ERPs, integração com NF-e (Nota Fiscal Eletrônica), etc.</p>
-					<a href="<?php echo INCLUDE_PATH; ?>sistemas" class="btn-saiba">Saiba Mais</a>
+					<a href="<?php echo INCLUDE_PATH; ?>sistemas" class="btn-saiba"><i class="fab fa-whatsapp"></i> ORÇAMENTO</a>
 					<!-- btn-saiba -->
                 </div>
                 <!-- box-icone-single -->
 				
 				<div class="box-icone-single wow bounceInDown">
-                    <h2 class="wow rubberBand"><i class="fas fa-mobile-alt"></i></h2>
-                    <h3>Aplicativos</h3> 
-                    <p>Aplicativos de delivery, compras, guias comerciais, catálogos de venda, galeria de fotos, etc</p>
-					<a href="#" class="btn-saiba">Saiba Mais</a>
+                    <h2 class="wow rubberBand"><i class="fas fa-dollar-sign"></i></h2>
+                    <h3>Páginas de Venda</h3> 
+                    <p>Criamos páginas de venda 100% otimizadas e voltadas para conversões. Solicite um orçamento e tenha hoje mesmo a sua página para vender na internet.</p>
+					<a href="#" class="btn-saiba"><i class="fab fa-whatsapp"></i> ORÇAMENTO</a>
 					<!-- btn-saiba -->
+                </div>
+                <!-- box-icone-single -->
+
+                <div class="box-icone-single wow bounceInDown">
+                    <h2 class="wow rubberBand"><i class="fas fa-paper-plane"></i></h2>
+                    <h3>Páginas de Captura e Inscrição</h3> 
+                    <p>Capture o e-mail dos visitantes em seu site e crie uma base de leads para sua empresa.</p>
+                    <a href="#" class="btn-saiba"><i class="fab fa-whatsapp"></i> ORÇAMENTO</a>
+                    <!-- btn-saiba -->
                 </div>
                 <!-- box-icone-single -->
 				
@@ -40,7 +49,7 @@
                     <h2 class="wow rubberBand"><i class="fas fa-shopping-cart"></i></h2>
                     <h3>Lojas Virtuais</h3> 
                     <p>Venda online 24 horas por dia, todos os dias do ano! Com um ecommerce, você estará disponível para mais pessoas por uma fração do custo de uma loja física!</p>
-					<a href="#" class="btn-saiba">Saiba Mais</a>
+					<a href="#" class="btn-saiba"><i class="fab fa-whatsapp"></i> ORÇAMENTO</a>
 					<!-- btn-saiba -->
                 </div>
                 <!-- box-icone-single -->
@@ -48,44 +57,35 @@
 				<div class="box-icone-single wow bounceInDown">
                     <h2 class="wow rubberBand"><i class="fab fa-google"></i></h2>
                     <h3>Google Ads</h3> 
-                    <p>Venda mais com links patrocinados! Campanhas Otimizadas no Google Ads, para atrair mais leads e fazer mais vendas!</p>
-					<a href="#" class="btn-saiba">Saiba Mais</a>
+                    <p>Criamos campanhas altamente otimizadas para o seu negócio gerar mais vendas pelo menor custo.</p>
+					<a href="#" class="btn-saiba"><i class="fab fa-whatsapp"></i> ORÇAMENTO</a>
 					<!-- btn-saiba -->
                 </div>
                 <!-- box-icone-single -->
 				
 				<div class="box-icone-single wow bounceInDown">
                     <h2 class="wow rubberBand"><i class="fab fa-facebook-f"></i></h2>
-                    <h3>Facebook Ads</h3> 
+                    <h3>Google e Facebook Ads</h3> 
                     <p>Venda mais no feed dos seus potenciais clientes! Campanhas Otimizadas no Facebook Ads para aumentar o alcance e conversão da sua marca!</p>
-					<a href="#" class="btn-saiba">Saiba Mais</a>
+					<a href="#" class="btn-saiba"><i class="fab fa-whatsapp"></i> ORÇAMENTO</a>
 					<!-- btn-saiba -->
                 </div>
                 <!-- box-icone-single -->
 				
 				<div class="box-icone-single wow bounceInDown">
-                    <h2 class="wow rubberBand"><i class="fab fa-instagram"></i></h2>
-                    <h3>Instagram Ads</h3> 
-					<p>Instagram Ads para aumentar o alcance e conversão da sua marca!</p>
-					<a href="#" class="btn-saiba">Saiba Mais</a>
-					<!-- btn-saiba -->
-                </div>
-                <!-- box-icone-single -->
-				
-				<div class="box-icone-single wow bounceInDown">
-                    <h2 class="wow rubberBand"><i class="fas fa-mail-bulk"></i></h2>
+                    <h2 class="wow rubberBand"><i class="fab fa-mailchimp"></i></h2>
                     <h3>E-mail Marketing</h3> 
-                    <p>E-mail marketing é a maneira mais econõmica para expandir sua marca para um público mais amplo, com a possibilidade de criar campanhas otimizadas e automatizadas, direto ao ponto!</p>
-					<a href="#" class="btn-saiba">Saiba Mais</a>
+                    <p>Aprenda como utilizar e-mail marketing na sua empresa para alavancar suas vendas de uma forma automatizada.</p>
+					<a href="#" class="btn-saiba"><i class="fab fa-whatsapp"></i> ORÇAMENTO</a>
 					<!-- btn-saiba -->
                 </div>
                 <!-- box-icone-single -->
 				
 				<div class="box-icone-single wow bounceInDown">
                     <h2 class="wow rubberBand"><i class="fas fa-search-dollar"></i></h2>
-                    <h3>SEO</h3> 
-                    <p>Lucre com baixo investimento em tráfego orgânico e marketing de conteúdo através do Search Engine Optimization (SEO). Campanhas otimizadas para tráfego sem precisar investir em links patrocinados.</p>
-					<a href="#" class="btn-saiba">Saiba Mais</a>
+                    <h3>SEO & Marketing de Conteúdo</h3> 
+                    <p>Aplicamos SEO no seu website para o mesmo ficar bem posicionado nos mecanismos de busca e ser achado facilmente.</p>
+					<a href="#" class="btn-saiba"><i class="fab fa-whatsapp"></i> ORÇAMENTO</a>
 					<!-- btn-saiba -->
                 </div>
                 <!-- box-icone-single -->
