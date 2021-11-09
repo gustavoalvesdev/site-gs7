@@ -13,16 +13,7 @@
                     <h2 class="wow rubberBand"><i class="fas fa-laptop-code"></i></h2>
                     <h3>Websites</h3> 
                     <p>Websites, landing pages, portais, páginas de captura e etc.</p>
-					<a href="<?php echo INCLUDE_PATH; ?>sites" class="btn-saiba"><i class="fab fa-whatsapp"></i> ORÇAMENTO</a>
-					<!-- btn-saiba -->
-                </div>
-                <!-- box-icone-single -->
-				
-				<div class="box-icone-single wow bounceInDown">
-                    <h2 class="wow rubberBand"><i class="fas fa-address-card"></i></h2>
-                    <h3>Sistemas</h3> 
-                    <p>Sistemas comerciais para cadastro de clientes, controle de estoque, gestão de funcionários, ERPs, integração com NF-e (Nota Fiscal Eletrônica), etc.</p>
-					<a href="<?php echo INCLUDE_PATH; ?>sistemas" class="btn-saiba"><i class="fab fa-whatsapp"></i> ORÇAMENTO</a>
+					<a href="https://wa.me/+5511996531308?text=Ol%C3%A1,%20estou%20entrando%20em%20contato%20atrav%C3%A9s%20do%20seu%20site" class="btn-saiba"><i class="fab fa-whatsapp"></i> ORÇAMENTO</a>
 					<!-- btn-saiba -->
                 </div>
                 <!-- box-icone-single -->
@@ -31,7 +22,7 @@
                     <h2 class="wow rubberBand"><i class="fas fa-dollar-sign"></i></h2>
                     <h3>Páginas de Venda</h3> 
                     <p>Criamos páginas de venda 100% otimizadas e voltadas para conversões. Solicite um orçamento e tenha hoje mesmo a sua página para vender na internet.</p>
-					<a href="#" class="btn-saiba"><i class="fab fa-whatsapp"></i> ORÇAMENTO</a>
+					<a href="https://wa.me/+5511996531308?text=Ol%C3%A1,%20estou%20entrando%20em%20contato%20atrav%C3%A9s%20do%20seu%20site" class="btn-saiba"><i class="fab fa-whatsapp"></i> ORÇAMENTO</a>
 					<!-- btn-saiba -->
                 </div>
                 <!-- box-icone-single -->
@@ -40,7 +31,7 @@
                     <h2 class="wow rubberBand"><i class="fas fa-paper-plane"></i></h2>
                     <h3>Páginas de Captura e Inscrição</h3> 
                     <p>Capture o e-mail dos visitantes em seu site e crie uma base de leads para sua empresa.</p>
-                    <a href="#" class="btn-saiba"><i class="fab fa-whatsapp"></i> ORÇAMENTO</a>
+                    <a href="https://wa.me/+5511996531308?text=Ol%C3%A1,%20estou%20entrando%20em%20contato%20atrav%C3%A9s%20do%20seu%20site" class="btn-saiba"><i class="fab fa-whatsapp"></i> ORÇAMENTO</a>
                     <!-- btn-saiba -->
                 </div>
                 <!-- box-icone-single -->
@@ -49,44 +40,17 @@
                     <h2 class="wow rubberBand"><i class="fas fa-shopping-cart"></i></h2>
                     <h3>Lojas Virtuais</h3> 
                     <p>Venda online 24 horas por dia, todos os dias do ano! Com um ecommerce, você estará disponível para mais pessoas por uma fração do custo de uma loja física!</p>
-					<a href="#" class="btn-saiba"><i class="fab fa-whatsapp"></i> ORÇAMENTO</a>
+					<a href="https://wa.me/+5511996531308?text=Ol%C3%A1,%20estou%20entrando%20em%20contato%20atrav%C3%A9s%20do%20seu%20site" class="btn-saiba"><i class="fab fa-whatsapp"></i> ORÇAMENTO</a>
 					<!-- btn-saiba -->
                 </div>
                 <!-- box-icone-single -->
-				
-				<div class="box-icone-single wow bounceInDown">
-                    <h2 class="wow rubberBand"><i class="fas fa-mobile-alt"></i></h2>
-                    <h3>Aplicativos</h3> 
-                    <p>Desenvolvemos aplicativos customizados para automatizar e facilitar a gestão do seu negócio, gerando mais lucro e autonomia.</p>
-					<a href="#" class="btn-saiba"><i class="fab fa-whatsapp"></i> ORÇAMENTO</a>
-					<!-- btn-saiba -->
-                </div>
-                <!-- box-icone-single -->
-				
-				<div class="box-icone-single wow bounceInDown">
-                    <h2 class="wow rubberBand"><i class="fab fa-facebook-f"></i></h2>
-                    <h3>Google e Facebook Ads</h3> 
-                    <p>Venda mais no feed dos seus potenciais clientes! Campanhas Otimizadas no Facebook Ads para aumentar o alcance e conversão da sua marca!</p>
-					<a href="#" class="btn-saiba"><i class="fab fa-whatsapp"></i> ORÇAMENTO</a>
-					<!-- btn-saiba -->
-                </div>
-                <!-- box-icone-single -->
-				
-				<div class="box-icone-single wow bounceInDown">
-                    <h2 class="wow rubberBand"><i class="fab fa-mailchimp"></i></h2>
-                    <h3>E-mail Marketing</h3> 
-                    <p>Aprenda como utilizar e-mail marketing na sua empresa para alavancar suas vendas de uma forma automatizada.</p>
-					<a href="#" class="btn-saiba"><i class="fab fa-whatsapp"></i> ORÇAMENTO</a>
-					<!-- btn-saiba -->
-                </div>
-                <!-- box-icone-single -->
-				
-				<div class="box-icone-single wow bounceInDown">
-                    <h2 class="wow rubberBand"><i class="fas fa-search-dollar"></i></h2>
-                    <h3>SEO & Marketing de Conteúdo</h3> 
-                    <p>Aplicamos SEO no seu website para o mesmo ficar bem posicionado nos mecanismos de busca e ser achado facilmente.</p>
-					<a href="#" class="btn-saiba"><i class="fab fa-whatsapp"></i> ORÇAMENTO</a>
-					<!-- btn-saiba -->
+
+                <div class="box-icone-single wow bounceInDown">
+                    <h2 class="wow rubberBand"><i class="fas fa-address-card"></i></h2>
+                    <h3>Sistemas</h3> 
+                    <p>Sistemas comerciais para cadastro de clientes, controle de estoque, gestão de funcionários, ERPs, integração com NF-e (Nota Fiscal Eletrônica), etc.</p>
+                    <a href="<?php echo INCLUDE_PATH; ?>sistemas" class="btn-saiba">SAIBA MAIS</a>
+                    <!-- btn-saiba -->
                 </div>
                 <!-- box-icone-single -->
 				
@@ -109,7 +73,7 @@
                     <div class="img-avatar" style="background-image:url('<?php echo INCLUDE_PATH; ?>assets/images/perfil.jpg');"></div>
                     <div class="descricao-avatar">
                         <h3>Gustavo Alves</h3>
-                        <p>Desenvolvedor Web Full-Stack</p>
+                        <p>Analista de Sistemas</p>
                     </div>
                     <!-- descricao-avatar -->
                 </div>

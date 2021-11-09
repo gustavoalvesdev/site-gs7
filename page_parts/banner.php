@@ -28,7 +28,7 @@
             </h2>
             <p class="wow bounceInLeft">
             	<?php if ($url === 'home'): ?>
-            		Soluções em desenvolvimento de aplicativos, sites e sistemas. Seu negócio estará em um outro patamar e receberá destaque perante a concorrência. Atendimento qualificado e diferenciado, focado nas suas necessidades.
+            		Soluções em desenvolvimento de sites, lojas virtuais e sistemas. Seu negócio estará em um outro patamar e receberá destaque perante a concorrência. Atendimento qualificado e diferenciado, focado nas suas necessidades.
             	<?php endif; ?>
             	<?php if ($url === 'sistemas'): ?>
             		Desenvolvemos sistemas únicos e personalizados para automatizar sua empresa e garantir praticidade, autonomia e resultados.

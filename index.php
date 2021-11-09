@@ -45,22 +45,22 @@
             <!-- logo -->
             <nav class="menu-desktop">
             <ul>
+            	<li <?php echo ($url === '' || $url === 'home') ? 'class="selected"' : ''; ?>><a href="<?php echo INCLUDE_PATH; ?>">Início</a></li>
                 <li <?php echo ($url === 'sobre') ? 'class="selected"' : ''; ?>><a href="<?php echo INCLUDE_PATH; ?>sobre">Sobre</a></li>
-                <li <?php echo ($url === 'portfolio') ? 'class="selected"' : ''; ?>><a href="<?php echo INCLUDE_PATH; ?>portfolio">Portfólio</a></li>
-                <li <?php echo ($url === 'clientes') ? 'class="selected"' : ''; ?>><a href="<?php echo INCLUDE_PATH; ?>clientes">Clientes</a></li>
+                <li <?php echo ($url === 'sistemas') ? 'class="selected"' : ''; ?>><a href="<?php echo INCLUDE_PATH; ?>sistemas">Sistemas</a></li>
                 <li <?php echo ($url === 'contato') ? 'class="selected"' : ''; ?>><a href="<?php echo INCLUDE_PATH; ?>contato">Contato</a></li>
-                <li <?php echo ($url === 'orcamento') ? 'class="selected"' : ''; ?>><a class="btn-proposta" href="<?php echo INCLUDE_PATH; ?>orcamento"><i class="fab fa-whatsapp"></i> ORÇAMENTO</a></li>
+                <li <?php echo ($url === 'orcamento') ? 'class="selected"' : ''; ?>><a class="btn-proposta" href="https://wa.me/+5511996531308?text=Ol%C3%A1,%20estou%20entrando%20em%20contato%20atrav%C3%A9s%20do%20seu%20site"><i class="fab fa-whatsapp"></i> ORÇAMENTO</a></li>
             </ul>
         </nav>
         <!-- menu-deskop -->
         <nav class="menu-mobile">
             <h2><i class="fa fa-bars"></i></h2>
             <ul>
-               <li <?php echo ($url === 'sobre') ? 'class="selected"' : ''; ?>><a href="<?php echo INCLUDE_PATH; ?>sobre">Sobre</a></li>
-                <li <?php echo ($url === 'portfolio') ? 'class="selected"' : ''; ?>><a href="<?php echo INCLUDE_PATH; ?>portfolio">Portfólio</a></li>
-                <li <?php echo ($url === 'clientes') ? 'class="selected"' : ''; ?>><a href="<?php echo INCLUDE_PATH; ?>clientes">Clientes</a></li>
+               <li <?php echo ($url === '' || $url === 'home') ? 'class="selected"' : ''; ?>><a href="<?php echo INCLUDE_PATH; ?>">Início</a></li>
+                <li <?php echo ($url === 'sobre') ? 'class="selected"' : ''; ?>><a href="<?php echo INCLUDE_PATH; ?>sobre">Sobre</a></li>
+                <li <?php echo ($url === 'sistemas') ? 'class="selected"' : ''; ?>><a href="<?php echo INCLUDE_PATH; ?>sistemas">Sistemas</a></li>
                 <li <?php echo ($url === 'contato') ? 'class="selected"' : ''; ?>><a href="<?php echo INCLUDE_PATH; ?>contato">Contato</a></li>
-                <li class="btn-proposta" <?php echo ($url === 'orcamento') ? 'class="selected"' : ''; ?>><a class="btn-proposta" href="<?php echo INCLUDE_PATH; ?>orcamento"><i class="fab fa-whatsapp"></i> ORÇAMENTO</a></li>
+                <li class="btn-proposta" <?php echo ($url === 'orcamento') ? 'class="selected"' : ''; ?>><a class="btn-proposta" href="https://wa.me/+5511996531308?text=Ol%C3%A1,%20estou%20entrando%20em%20contato%20atrav%C3%A9s%20do%20seu%20site"><i class="fab fa-whatsapp"></i> ORÇAMENTO</a></li>
             </ul>
         </nav>
         <!-- menu-mobile -->

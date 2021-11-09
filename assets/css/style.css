@@ -226,7 +226,7 @@ header {
 
 .box-icone-single p {
 	min-height: 100px;
-	text-align: justify;
+	text-align: center;
 	margin-top: 20px;
 }
 
@@ -511,7 +511,7 @@ header {
     margin-top: 0;
     cursor: pointer;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 842px) {
     .w20 {
         width: 100%;
     }
@@ -556,7 +556,7 @@ header {
         text-align: center;
     }
 }
-@media screen and (max-width: 580px) {
+@media screen and (max-width: 842px) {
     .menu-desktop {
         display: none;
     }
